@@ -60,6 +60,7 @@ public class CreateNewAccountPage extends BaseClass {
 		Select sel =new Select(country);
 		sel.selectByVisibleText(nation);
 		cbox.click();
+		System.out.println("TC 1 is created by Nikhil Tester");
 	}
 	
 	
