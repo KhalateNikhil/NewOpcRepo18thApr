@@ -65,6 +65,7 @@ public class CreateNewAccountPage extends BaseClass {
 		System.out.println("TC 3 is created by Nikhil Tester");
 		System.out.println("TC 4 is created by Sonali Tester");
 		System.out.println("TC 5 is created by Nikhil Tester");
+		System.out.println("TC 6 is created by Sonali Tester");
 	}
 	
 	
